@@ -10,3 +10,8 @@ font-style: normal;
 font-variant: normal;
 text-transform: none;
 }
+body {
+  background-image: url('/images/rain.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
